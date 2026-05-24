@@ -11,6 +11,8 @@ O sistema indexa documentos locais e responde perguntas em tempo real com privac
 * **Busca Local:** Consulta múltiplos diretórios simultaneamente.
 * **Rastreabilidade de Fontes:** Identifica e exibe os arquivos exatos onde a informação foi encontrada.
 * **Respostas Determinísticas:** Configurado para extrair fatos reais do contexto, respondendo *"Não encontrei essa informação nos arquivos indexados."* em vez de alucinar.
+---
+<img width="1880" height="879" alt="image" src="https://github.com/user-attachments/assets/74f37a09-8f72-46ea-84de-d487a83919c9" />
 
 ---
 
