@@ -40,7 +40,7 @@ Por operar de forma totalmente isolada (*air-gapped*), esta aplicação resolve 
 
 ### Passo 1: Clonar o Repositório
 ```bash
-git clone URL_DO_SEU_REPOSITORIO  
+git clone 
 cd chat
 ```
 
