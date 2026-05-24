@@ -11,8 +11,6 @@ O sistema indexa documentos locais e responde perguntas em tempo real com privac
 * **Busca Local:** Consulta múltiplos diretórios simultaneamente.
 * **Rastreabilidade de Fontes:** Identifica e exibe os arquivos exatos onde a informação foi encontrada.
 * **Respostas Determinísticas:** Configurado para extrair fatos reais do contexto, respondendo *"Não encontrei essa informação nos arquivos indexados."* em vez de alucinar.
----
-<img width="1880" height="879" alt="image" src="https://github.com/user-attachments/assets/74f37a09-8f72-46ea-84de-d487a83919c9" />
 
 ---
 
@@ -86,6 +84,8 @@ streamlit run app.py
 2. Na barra lateral, cole os caminhos absolutos das pastas que contêm seus arquivos (um caminho por linha) e clique em **Atualizar e Indexar**.
 3. Use o chat para fazer perguntas. As fontes utilizadas aparecerão estruturadas com o nome exato dos arquivos logo abaixo da resposta da IA.
 
+---
+<img width="1880" height="879" alt="image" src="https://github.com/user-attachments/assets/74f37a09-8f72-46ea-84de-d487a83919c9" />
 
 ---
 ## 🇺🇸 English
