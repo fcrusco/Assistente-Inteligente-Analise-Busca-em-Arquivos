@@ -85,7 +85,8 @@ streamlit run app.py
 3. Use o chat para fazer perguntas. As fontes utilizadas aparecerão estruturadas com o nome exato dos arquivos logo abaixo da resposta da IA.
 
 
-
+---
+---
 # 📄 Local AI Analyst (Offline RAG)
 
 Conversational virtual assistant based on the **RAG (Retrieval-Augmented Generation)** architecture that operates 100% offline. 
@@ -173,6 +174,8 @@ streamlit run app.py
 3. Use the chat to ask questions. The sources used will appear structured with the exact file names right below the AI's response.
 
 
+---
+---
 # 📄 Analista IA Local (RAG Offline)
 
 Asistente virtual conversacional basado en la arquitectura **RAG (Retrieval-Augmented Generation)** que opera de forma 100% offline. 
