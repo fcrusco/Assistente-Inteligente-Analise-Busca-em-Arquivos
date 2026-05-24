@@ -86,7 +86,7 @@ streamlit run app.py
 
 
 ---
----
+## 🇺🇸 English
 # 📄 Local AI Analyst (Offline RAG)
 
 Conversational virtual assistant based on the **RAG (Retrieval-Augmented Generation)** architecture that operates 100% offline. 
@@ -175,7 +175,7 @@ streamlit run app.py
 
 
 ---
----
+## 🇪🇸 Español
 # 📄 Analista IA Local (RAG Offline)
 
 Asistente virtual conversacional basado en la arquitectura **RAG (Retrieval-Augmented Generation)** que opera de forma 100% offline. 
