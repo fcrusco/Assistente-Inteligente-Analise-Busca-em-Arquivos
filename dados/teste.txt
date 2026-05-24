@@ -1,0 +1,3 @@
+O projeto Chat Offline foi iniciado em maio de 2026. 
+O responsável técnico é o desenvolvedor Fabio Crusco da Silva. 
+A meta é gerar relatórios em HTML e Excel sem usar internet.
